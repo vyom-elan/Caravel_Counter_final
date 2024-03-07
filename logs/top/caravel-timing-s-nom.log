@@ -1,0 +1,819 @@
+pdk(libs) defined as:
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/lib/sky130_fd_sc_hvl__ss_100C_1v65.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/lib/sky130_fd_sc_hvl__ss_100C_1v65_lv1v60.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_gpiov2_ss_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_ground_hvc_wpad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_ground_lvc_wpad_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_power_lvc_wpad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_xres4v2_ss_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__gpiov2_pad_wrapped_ss_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vdda_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssa_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vddio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped3_pad_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped3_pad_ss_100C_1v60_3v00_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped_pad_ss_100C_1v60_3v00.lib
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_sram_macros/lib/sky130_sram_2kbyte_1rw1r_32x512_8_TT_1p8V_25C.lib
+pdk(lefs) defined as:
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/techlef/sky130_fd_sc_hvl__nom.tlef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lef/sky130_fd_io.lef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lef/sky130_ef_io.lef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/lef/sky130_fd_sc_hvl.lef
+/home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_sram_macros/lef/sky130_sram_2kbyte_1rw1r_32x512_8.lef
+verilog exception: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/__user_analog_project_wrapper.v
+removing /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/__user_analog_project_wrapper.v from verilogs list
+verilog exception: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel-signoff.v
+removing /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel-signoff.v from verilogs list
+verilog exception: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan-signoff.v
+removing /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan-signoff.v from verilogs list
+verilog exception: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/__user_project_wrapper.v
+removing /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/__user_project_wrapper.v from verilogs list
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/lib/sky130_fd_sc_hvl__ss_100C_1v65.lib
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_sc_hvl/lib/sky130_fd_sc_hvl__ss_100C_1v65_lv1v60.lib
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_gpiov2_ss_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_fd_io__top_gpiov2_ss_ss_100C_1v60_3v00.lib line 33, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_ground_hvc_wpad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_fd_io__top_ground_hvc_wpad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_ground_lvc_wpad_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_fd_io__top_ground_lvc_wpad_ss_100C_1v60_3v00.lib line 43, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_power_lvc_wpad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_fd_io__top_power_lvc_wpad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_fd_io__top_xres4v2_ss_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_fd_io__top_xres4v2_ss_ss_100C_1v60_3v00.lib line 33, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__gpiov2_pad_wrapped_ss_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__gpiov2_pad_wrapped_ss_ss_100C_1v60_3v00.lib line 33, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vdda_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vdda_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssa_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vssa_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vddio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vddio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vssio_hvc_clamped_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped3_pad_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped3_pad_ss_100C_1v60_3v00.lib line 43, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped3_pad_ss_100C_1v60_3v00_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vccd_lvc_clamped3_pad_ss_100C_1v60_3v00_3v00.lib line 42, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped_pad_ss_100C_1v60_3v00.lib
+Warning: /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref/sky130_fd_io/lib/sky130_ef_io__vssd_lvc_clamped_pad_ss_100C_1v60_3v00.lib line 43, default_fanout_load is 0.0.
+exec> read_liberty /home/vyom/Project/Counter_caravel_project/dependencies/pdks/sky130A/libs.ref//sky130_sram_macros/lib/sky130_sram_2kbyte_1rw1r_32x512_8_TT_1p8V_25C.lib
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/verilog/gl/RAM256.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/verilog/gl/RAM128.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/verilog/gl/mgmt_core_wrapper.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/copyright_block.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/gpio_defaults_block_0801.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/spare_logic_block.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/chip_io.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/empty_macro.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_openframe.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/gpio_logic_high.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/mprj2_logic_high.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan_signal_routing.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan_core.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_logo.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/gpio_defaults_block_1803.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/gpio_defaults_block.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_openframe-example.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/mprj_io_buffer.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/mgmt_protect.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/chip_io_openframe.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/user_id_programming.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/open_source.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/mgmt_protect_hv.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_clocking.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/housekeeping.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_motto.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/housekeeping_alt.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/gpio_defaults_block_0403.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/mprj_logic_high.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/xres_buf.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/chip_io_alt.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/manual_power_connections.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravan_core-openlane.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/user_id_textblock.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/empty_macro_1.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/constant_block.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/verilog/gl/user_project_wrapper.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/verilog/gl/user_proj_example.nl.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/verilog/gl/user_proj_example.v
+exec> read_verilog /home/vyom/Project/Counter_caravel_project/verilog/gl/user_project_wrapper.nl.v
+exec> link_design caravel
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_clocking.v line 2676, module sky130_fd_sc_hd__tapvpwrvgnd_1 not found. Creating black box for TAP_66.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_clocking.v line 3916, module sky130_fd_sc_hd__fill_2 not found. Creating black box for FILLER_0_11.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_clocking.v line 3920, module sky130_ef_sc_hd__decap_12 not found. Creating black box for FILLER_0_14.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_clocking.v line 3996, module sky130_fd_sc_hd__fill_1 not found. Creating black box for FILLER_1_31.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vccd1 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vccd2 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vdda1 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vdda2 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vssa1 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vssa2 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vssd1 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 224628, instance mprj port vssd2 not found.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/caravel_core.v line 225920, module simple_por not found. Creating black box for por.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/chip_io.v line 1339, module sky130_ef_io__corner_pad not found. Creating black box for \mgmt_corner[0] .
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/constant_block.v line 47, module sky130_fd_sc_hd__fill_4 not found. Creating black box for FILLER_1_0.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/constant_block.v line 55, module sky130_fd_sc_hd__fill_8 not found. Creating black box for FILLER_1_8.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/xres_buf.v line 49, module sky130_fd_sc_hvl__fill_2 not found. Creating black box for FILLER_0_28.
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/verilog/gl/xres_buf.v line 55, module sky130_fd_sc_hvl__fill_1 not found. Creating black box for FILLER_0_30.
+/home/vyom/Project/Counter_caravel_project/caravel/signoff/caravel/openlane-signoff/spef/caravel.nom.spef not found
+WARNING ALLOW_MISSING_SPEF set to 1. continuing
+exec> read_spef -path chip_core/soc.core.RAM128 /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/signoff/RAM128/openlane-signoff/spef/RAM128.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_33 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_33/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_33/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_33/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_33/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_2[6].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_34 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_34/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_34/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_34/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_34/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_35 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_35/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_35/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_35/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_35/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[9].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/clock_ctrl /home/vyom/Project/Counter_caravel_project/caravel/signoff/caravel_clocking/openlane-signoff/spef/caravel_clocking.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_36 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_36/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_36/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_36/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_36/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[2].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core /home/vyom/Project/Counter_caravel_project/caravel/signoff/caravel_core/openlane-signoff/spef/caravel_core.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_37 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_37/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_37/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_37/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_37/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/mgmt_buffers.powergood_check /home/vyom/Project/Counter_caravel_project/caravel/signoff/mgmt_protect_hv/openlane-signoff/spef/mgmt_protect_hv.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1a[3].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[13].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path padframe/constant_value_inst[5] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[7].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+/home/vyom/Project/Counter_caravel_project/caravel/signoff/user_id_programming/openlane-signoff/spef/user_id_programming.nom.spef not found
+WARNING ALLOW_MISSING_SPEF set to 1. continuing
+exec> read_spef -path chip_core/gpio_control_in_1[10].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[0].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/spare_logic[0] /home/vyom/Project/Counter_caravel_project/caravel/signoff/spare_logic_block/openlane-signoff/spef/spare_logic_block.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1[3].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_bidir_1[0].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1a[4].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[14].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path padframe/constant_value_inst[6] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[8].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[1].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/spare_logic[1] /home/vyom/Project/Counter_caravel_project/caravel/signoff/spare_logic_block/openlane-signoff/spef/spare_logic_block.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1[4].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_bidir_1[1].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1a[5].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[15].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path padframe/constant_value_inst[0] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[9].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[2].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/spare_logic[2] /home/vyom/Project/Counter_caravel_project/caravel/signoff/spare_logic_block/openlane-signoff/spef/spare_logic_block.nom.spef
+exec> read_spef -path chip_core/rstb_level /home/vyom/Project/Counter_caravel_project/caravel/signoff/xres_buf/openlane-signoff/spef/xres_buf.nom.spef
+exec> read_spef -path chip_core/gpio_buf /home/vyom/Project/Counter_caravel_project/caravel/signoff/mprj_io_buffer/openlane-signoff/spef/mprj_io_buffer.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_1[5].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/housekeeping /home/vyom/Project/Counter_caravel_project/caravel/signoff/housekeeping/openlane-signoff/spef/housekeeping.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_0 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_0/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_0/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_0/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_0/gpio_defaults_high\[1\].
+exec> read_spef -path padframe/constant_value_inst[1] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_1 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_1/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_1/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_1/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_1/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/mprj/mprj /home/vyom/Project/Counter_caravel_project/signoff/user_proj_example/openlane-signoff/spef/user_proj_example.nom.spef
+/home/vyom/Project/Counter_caravel_project/caravel/signoff/not-found/simple_por.nom.spef not found
+WARNING ALLOW_MISSING_SPEF set to 1. continuing
+exec> read_spef -path chip_core/gpio_defaults_block_2 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_2/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_2/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_2/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_2/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_3 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_3/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_3/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_3/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_3/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_bidir_2[0].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[3].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/spare_logic[3] /home/vyom/Project/Counter_caravel_project/caravel/signoff/spare_logic_block/openlane-signoff/spef/spare_logic_block.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_4 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_4/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_4/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_4/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_4/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_5 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_5/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_5/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_5/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_5/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[6].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/soc.core.RAM256.BANK128[0].RAM128 /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/signoff/RAM128/openlane-signoff/spef/RAM128.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_6 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_6/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_6/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_6/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_6/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/soc.core.RAM256.BANK128[1].RAM128 /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper/signoff/RAM128/openlane-signoff/spef/RAM128.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_7 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_7/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_7/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_7/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_7/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_8 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_8/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_8/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_8/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_8/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1a[0].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_9 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_9/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_9/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_9/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_9/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_2[10].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_10 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_10/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_10/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_10/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_10/gpio_defaults_high\[1\].
+exec> read_spef -path padframe/constant_value_inst[2] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_11 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_11/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_11/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_11/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_11/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_12 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_12/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_12/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_12/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_12/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_bidir_2[1].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[4].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_13 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_13/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_13/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_13/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_13/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_14 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_14/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_14/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_14/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_14/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[7].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_15 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_15/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_15/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_15/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_15/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[0].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_16 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_16/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_16/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_16/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_16/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_17 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_17/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_17/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_17/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_17/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_18 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_18/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_18/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_18/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_18/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1a[1].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/mprj /home/vyom/Project/Counter_caravel_project/signoff/user_project_wrapper/openlane-signoff/spef/user_project_wrapper.nom.spef
+exec> read_spef -path chip_core/mgmt_buffers.mprj_logic_high_inst /home/vyom/Project/Counter_caravel_project/caravel/signoff/mprj_logic_high/openlane-signoff/spef/mprj_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_20 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_20/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_20/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_20/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_20/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_19 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_19/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_19/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_19/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_19/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_2[11].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path padframe/constant_value_inst[3] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_21 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_21/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_21/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_21/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_21/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_22 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_22/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_22/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_22/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_22/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_23 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_23/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_23/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_23/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_23/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_bidir_2[2].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_control_in_2[5].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+/home/vyom/Project/Counter_caravel_project/caravel/signoff/chip_io/openlane-signoff/spef/chip_io.nom.spef not found
+WARNING ALLOW_MISSING_SPEF set to 1. continuing
+exec> read_spef -path chip_core/gpio_defaults_block_24 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_24/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_24/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_24/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_24/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_25 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_25/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_25/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_25/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_25/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[8].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_26 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_26/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_26/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_26/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_26/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1[1].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_27 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_27/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_27/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_27/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_27/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_28 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_28/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_28/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_28/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_28/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_1a[2].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_30 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_30/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_30/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_30/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_30/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_29 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_29/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_29/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_29/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_29/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_control_in_2[12].gpio_logic_high /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_logic_high/openlane-signoff/spef/gpio_logic_high.nom.spef
+exec> read_spef -path padframe/constant_value_inst[4] /home/vyom/Project/Counter_caravel_project/caravel/signoff/constant_block/openlane-signoff/spef/constant_block.nom.spef
+exec> read_spef -path chip_core/mgmt_buffers.mprj2_logic_high_inst /home/vyom/Project/Counter_caravel_project/caravel/signoff/mprj2_logic_high/openlane-signoff/spef/mprj2_logic_high.nom.spef
+exec> read_spef -path chip_core/gpio_defaults_block_31 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_31/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_31/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_31/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_31/gpio_defaults_high\[1\].
+exec> read_spef -path chip_core/gpio_defaults_block_32 /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 135, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_32/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 139, gpio_defaults[10] not connected to net chip_core/gpio_defaults_block_32/gpio_defaults_high\[10\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 175, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_32/gpio_defaults_high\[1\].
+Warning: /home/vyom/Project/Counter_caravel_project/caravel/signoff/gpio_defaults_block/openlane-signoff/spef/gpio_defaults_block.nom.spef line 179, gpio_defaults[1] not connected to net chip_core/gpio_defaults_block_32/gpio_defaults_high\[1\].
+exec> read_sdc -echo /home/vyom/Project/Counter_caravel_project/caravel/signoff/caravel/caravel.sdc
+### Caravel new Signoff SDC
+### Rev 1
+### Date: 12/2/2023
+# IO 4 mode is either SCK or GPIO (hkspi)
+set io_4_mode SCK
+puts "\[INFO\]: IO[4] is set as: $io_4_mode"
+[INFO]: IO[4] is set as: SCK
+# IOs mode is either OUT or IN (GPIOs)
+set ios_mode OUT
+puts "\[INFO\]: GPIOs mode is set as: $ios_mode"
+[INFO]: GPIOs mode is set as: OUT
+# IO ports to user's project wrapper are assumed to be asynchronous. If they're synchronous to the clock, update the variable IO_SYNC to 1
+set ::env(IO_SYNC) 0
+## MASTER CLOCKS
+set clk_period 25
+create_clock -name clk -period $clk_period [get_ports {clock}] 
+puts "\[INFO\]: System clock period: $clk_period"
+[INFO]: System clock period: 25
+create_clock -name hk_serial_clk -period 100 [get_pins {chip_core/housekeeping/serial_clock}]
+create_clock -name hk_serial_load -period 1000 [get_pins {chip_core/housekeeping/serial_load}]
+set_clock_uncertainty 0.1000 [get_clocks {clk hk_serial_clk hk_serial_load}]
+set_propagated_clock [get_clocks {clk hk_serial_clk hk_serial_load}]
+set min_clk_tran 1
+set max_clk_tran 1.5
+puts "\[INFO\]: Clock transition range: $min_clk_tran : $max_clk_tran"
+[INFO]: Clock transition range: 1 : 1.5
+# Add clock transition
+set_input_transition -min $min_clk_tran [get_ports {clock}] 
+set_input_transition -max $max_clk_tran [get_ports {clock}] 
+if {$io_4_mode == "SCK"} {
+   # deassert hkspi_disable
+   set_case_analysis 0 [get_pins {chip_core/housekeeping/_6817_/Q}]
+   # dessert CSB
+   set_case_analysis 0 [get_ports {mprj_io[3]} ] 
+   create_clock -name hkspi_clk -period 100 [get_ports {mprj_io[4]} ] 
+   set_clock_uncertainty 0.1000 [get_clocks {hkspi_clk}]
+   set_propagated_clock [get_clocks {hkspi_clk}]
+   set_clock_groups \
+   -name clock_group \
+   -logically_exclusive \
+   -group [get_clocks {clk}]\
+   -group [get_clocks {hk_serial_clk}]\
+   -group [get_clocks {hk_serial_load}]\
+   -group [get_clocks {hkspi_clk}]
+} elseif {$io_4_mode == "GPIO"} {
+   # assert hkspi_disable
+   set_case_analysis 1 [get_pins {chip_core/housekeeping/_6817_/Q}]
+   set_clock_groups \
+   -name clock_group \
+   -logically_exclusive \
+   -group [get_clocks {clk}]\
+   -group [get_clocks {hk_serial_clk}]\
+   -group [get_clocks {hk_serial_load}]\
+} 
+# Add case analysis for clock pad DM[2]==1'b0 & DM[1]==1'b0 & DM[0]==1'b1 to be input
+set_case_analysis 0 [get_pins padframe/clock_pad/DM[2]]
+set_case_analysis 0 [get_pins padframe/clock_pad/DM[1]]
+set_case_analysis 1 [get_pins padframe/clock_pad/DM[0]]
+set_case_analysis 0 [get_pins padframe/clock_pad/INP_DIS]
+# hk_serial_clk period is x2 core clock
+# clock <-> hk_serial_clk/load no paths
+# future note: CDC stuff
+# clock <-> hkspi_clk no paths with careful methods (clock is off)
+# Set system monitoring mux select to zero so that the clock/user_clk monitoring is disabled 
+set_case_analysis 0 [get_pins chip_core/housekeeping/_3949_/S]
+set_case_analysis 0 [get_pins chip_core/housekeeping/_3950_/S]
+set input_delay_value 4
+set output_delay_value 4
+puts "\[INFO\]: Setting input delay to: $input_delay_value"
+[INFO]: Setting input delay to: 4
+puts "\[INFO\]: Setting output delay to: $output_delay_value"
+[INFO]: Setting output delay to: 4
+set min_in_tran 1
+set max_in_tran 4
+puts "\[INFO\]: Input transition range: $min_in_tran : $max_in_tran"
+[INFO]: Input transition range: 1 : 4
+# 10 too high --> 4:7
+set min_cap 4
+set max_cap 7
+puts "\[INFO\]: Cap load range: $min_cap : $max_cap"
+[INFO]: Cap load range: 4 : 7
+if {$ios_mode == "IN"} {
+   # Add case analysis for pads DM[2]==1'b0 & DM[1]==1'b0 & DM[0]==1'b1 to be inputs
+   set_case_analysis 0 [get_pins padframe/*mprj*/DM[2]]
+   set_case_analysis 0 [get_pins padframe/*mprj*/DM[1]]
+   set_case_analysis 1 [get_pins padframe/*mprj*/DM[0]]
+   set_case_analysis 0 [get_pins padframe/*mprj*/INP_DIS]
+   # Add input transition
+   set_input_transition -min $min_in_tran [get_ports {mprj_io[*]}] 
+   set_input_transition -max $max_in_tran [get_ports {mprj_io[*]}] 
+   ## INPUT DELAYS
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[0]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[5]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[6]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[7]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[8]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[9]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[10]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[11]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[12]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[13]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[14]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[15]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[16]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[17]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[18]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[19]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[20]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[21]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[22]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[23]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[24]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[25]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[26]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[27]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[28]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[29]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[30]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[31]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[32]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[33]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[34]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[35]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[36]}]
+   set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[37]}]
+   
+   if {$io_4_mode == "SCK"} {
+      # Add clock transition
+      set_input_transition -min $min_clk_tran [get_ports {mprj_io[4]}] 
+      set_input_transition -max $max_clk_tran [get_ports {mprj_io[4]}] 
+      # SDO output
+      set_case_analysis 1 [get_pins padframe/\mprj_pads.area1_io_pad[1]/DM[2]]
+      set_case_analysis 1 [get_pins padframe/\mprj_pads.area1_io_pad[1]/DM[1]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[1]/DM[0]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[1]/OE_N]
+      set_output_delay $output_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[1]}]
+      set_load -min $min_cap [get_ports {mprj_io[1]}] 
+      set_load -max $max_cap [get_ports {mprj_io[1]}]  
+      set_input_delay $input_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[2]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[3]}]
+      if { $::env(IO_SYNC) } {
+         set_false_path -from [get_ports mprj_io[*]] -through [get_pins chip_core/housekeeping/mgmt_gpio_out[*]]
+         set_false_path -from [get_ports mprj_io[*]] -through [get_pins chip_core/housekeeping/mgmt_gpio_oeb[*]]
+         set_false_path -from [get_ports mprj_io[0]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[0]]
+         set_false_path -from [get_ports mprj_io[1]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[1]]
+         set_false_path -from [get_ports mprj_io[5]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[5]]
+         set_false_path -from [get_ports mprj_io[6]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[6]]
+         set_false_path -from [get_ports mprj_io[7]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[7]]
+         set_false_path -from [get_ports mprj_io[8]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[8]]
+         set_false_path -from [get_ports mprj_io[9]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[9]]
+         set_false_path -from [get_ports mprj_io[10]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[10]]
+         set_false_path -from [get_ports mprj_io[11]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[11]]
+         set_false_path -from [get_ports mprj_io[12]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[12]]
+         set_false_path -from [get_ports mprj_io[13]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[13]]
+         set_false_path -from [get_ports mprj_io[14]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[14]]
+         set_false_path -from [get_ports mprj_io[15]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[15]]
+         set_false_path -from [get_ports mprj_io[16]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[16]]
+         set_false_path -from [get_ports mprj_io[17]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[17]]
+         set_false_path -from [get_ports mprj_io[18]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[18]]
+         set_false_path -from [get_ports mprj_io[19]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[19]]
+         set_false_path -from [get_ports mprj_io[20]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[20]]
+         set_false_path -from [get_ports mprj_io[21]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[21]]
+         set_false_path -from [get_ports mprj_io[22]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[22]]
+         set_false_path -from [get_ports mprj_io[23]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[23]]
+         set_false_path -from [get_ports mprj_io[24]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[24]]
+         set_false_path -from [get_ports mprj_io[25]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[25]]
+         set_false_path -from [get_ports mprj_io[26]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[26]]
+         set_false_path -from [get_ports mprj_io[27]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[27]]
+         set_false_path -from [get_ports mprj_io[28]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[28]]
+         set_false_path -from [get_ports mprj_io[29]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[29]]
+         set_false_path -from [get_ports mprj_io[30]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[30]]
+         set_false_path -from [get_ports mprj_io[31]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[31]]
+         set_false_path -from [get_ports mprj_io[32]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[32]]
+         set_false_path -from [get_ports mprj_io[33]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[33]]
+         set_false_path -from [get_ports mprj_io[34]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[34]]
+         set_false_path -from [get_ports mprj_io[35]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[35]]
+         set_false_path -from [get_ports mprj_io[36]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[36]]
+         set_false_path -from [get_ports mprj_io[37]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[37]]
+      } else {
+         set_false_path -from [get_ports mprj_io[0]]
+         set_false_path -from [get_ports mprj_io[1]]
+         set_false_path -from [get_ports mprj_io[5]]
+         set_false_path -from [get_ports mprj_io[6]]
+         set_false_path -from [get_ports mprj_io[7]]
+         set_false_path -from [get_ports mprj_io[8]]
+         set_false_path -from [get_ports mprj_io[9]]
+         set_false_path -from [get_ports mprj_io[10]]
+         set_false_path -from [get_ports mprj_io[11]]
+         set_false_path -from [get_ports mprj_io[12]]
+         set_false_path -from [get_ports mprj_io[13]]
+         set_false_path -from [get_ports mprj_io[14]]
+         set_false_path -from [get_ports mprj_io[15]]
+         set_false_path -from [get_ports mprj_io[16]]
+         set_false_path -from [get_ports mprj_io[17]]
+         set_false_path -from [get_ports mprj_io[18]]
+         set_false_path -from [get_ports mprj_io[19]]
+         set_false_path -from [get_ports mprj_io[20]]
+         set_false_path -from [get_ports mprj_io[21]]
+         set_false_path -from [get_ports mprj_io[22]]
+         set_false_path -from [get_ports mprj_io[23]]
+         set_false_path -from [get_ports mprj_io[24]]
+         set_false_path -from [get_ports mprj_io[25]]
+         set_false_path -from [get_ports mprj_io[26]]
+         set_false_path -from [get_ports mprj_io[27]]
+         set_false_path -from [get_ports mprj_io[28]]
+         set_false_path -from [get_ports mprj_io[29]]
+         set_false_path -from [get_ports mprj_io[30]]
+         set_false_path -from [get_ports mprj_io[31]]
+         set_false_path -from [get_ports mprj_io[32]]
+         set_false_path -from [get_ports mprj_io[33]]
+         set_false_path -from [get_ports mprj_io[34]]
+         set_false_path -from [get_ports mprj_io[35]]
+         set_false_path -from [get_ports mprj_io[36]]
+         set_false_path -from [get_ports mprj_io[37]]
+      }  
+   } elseif {$io_4_mode == "GPIO"} {
+      set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[1]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[2]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[3]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[4]}]   
+      
+      if { $::env(IO_SYNC) } {
+         set_false_path -from [get_ports mprj_io[*]] -through [get_pins chip_core/housekeeping/mgmt_gpio_out[*]]
+         set_false_path -from [get_ports mprj_io[*]] -through [get_pins chip_core/housekeeping/mgmt_gpio_oeb[*]]
+         set_false_path -from [get_ports mprj_io[*]] -through [get_pins chip_core/housekeeping/mgmt_gpio_in[*]]
+      } else {
+         # set_false_path -from [get_ports mprj_io[*]] 
+      }  
+   }
+} elseif {$ios_mode == "OUT"} {
+   # Add case analysis for pads DM[2]==1'b1 & DM[1]==1'b1 & DM[0]==1'b0 to be outputs
+   set_case_analysis 1 [get_pins padframe/*mprj*/DM[2]]
+   set_case_analysis 1 [get_pins padframe/*mprj*/DM[1]]
+   set_case_analysis 0 [get_pins padframe/*mprj*/DM[0]]
+   set_case_analysis 0 [get_pins padframe/*mprj*/OE_N]
+   # add loads for output ports (pads)
+   set_load -min $min_cap [get_ports {mprj_io[*]}] 
+   set_load -max $max_cap [get_ports {mprj_io[*]}]  
+   ## OUTPUT DELAYS
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[0]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[5]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[6]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[7]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[8]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[9]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[10]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[11]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[12]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[13]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[14]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[15]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[16]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[17]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[18]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[19]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[20]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[21]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[22]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[23]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[24]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[25]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[26]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[27]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[28]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[29]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[30]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[31]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[32]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[33]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[34]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[35]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[36]}]
+   set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[37]}]
+   if {$io_4_mode == "SCK"} {
+      # SCK, CSB, SDI are inputs
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[4]/DM[2]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[4]/DM[1]]
+      set_case_analysis 1 [get_pins padframe/\mprj_pads.area1_io_pad[4]/DM[0]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[4]/INP_DIS]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[3]/DM[2]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[3]/DM[1]]
+      set_case_analysis 1 [get_pins padframe/\mprj_pads.area1_io_pad[3]/DM[0]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[3]/INP_DIS]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[2]/DM[2]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[2]/DM[1]]
+      set_case_analysis 1 [get_pins padframe/\mprj_pads.area1_io_pad[2]/DM[0]]
+      set_case_analysis 0 [get_pins padframe/\mprj_pads.area1_io_pad[2]/INP_DIS]
+      set_output_delay $output_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[1]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[2]}]
+      set_input_delay $input_delay_value  -clock [get_clocks {hkspi_clk}] [get_ports {mprj_io[3]}]
+      set_input_transition -min $min_in_tran [get_ports {mprj_io[2] mprj_io[2]}] 
+      set_input_transition -max $max_in_tran [get_ports {mprj_io[3] mprj_io[3]}] 
+      if { !($::env(IO_SYNC)) } {
+         set_false_path -to [get_ports mprj_io[0]]
+         set_false_path -to [get_ports mprj_io[5]]
+         set_false_path -to [get_ports mprj_io[6]]
+         set_false_path -to [get_ports mprj_io[7]]
+         set_false_path -to [get_ports mprj_io[8]]
+         set_false_path -to [get_ports mprj_io[9]]
+         set_false_path -to [get_ports mprj_io[10]]
+         set_false_path -to [get_ports mprj_io[11]]
+         set_false_path -to [get_ports mprj_io[12]]
+         set_false_path -to [get_ports mprj_io[13]]
+         set_false_path -to [get_ports mprj_io[14]]
+         set_false_path -to [get_ports mprj_io[15]]
+         set_false_path -to [get_ports mprj_io[16]]
+         set_false_path -to [get_ports mprj_io[17]]
+         set_false_path -to [get_ports mprj_io[18]]
+         set_false_path -to [get_ports mprj_io[19]]
+         set_false_path -to [get_ports mprj_io[20]]
+         set_false_path -to [get_ports mprj_io[21]]
+         set_false_path -to [get_ports mprj_io[22]]
+         set_false_path -to [get_ports mprj_io[23]]
+         set_false_path -to [get_ports mprj_io[24]]
+         set_false_path -to [get_ports mprj_io[25]]
+         set_false_path -to [get_ports mprj_io[26]]
+         set_false_path -to [get_ports mprj_io[27]]
+         set_false_path -to [get_ports mprj_io[28]]
+         set_false_path -to [get_ports mprj_io[29]]
+         set_false_path -to [get_ports mprj_io[30]]
+         set_false_path -to [get_ports mprj_io[31]]
+         set_false_path -to [get_ports mprj_io[32]]
+         set_false_path -to [get_ports mprj_io[33]]
+         set_false_path -to [get_ports mprj_io[34]]
+         set_false_path -to [get_ports mprj_io[35]]
+         set_false_path -to [get_ports mprj_io[36]]
+         set_false_path -to [get_ports mprj_io[37]]
+      } 
+   } elseif {$io_4_mode == "GPIO"} {
+      set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[1]}]
+      set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[2]}]
+      set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[3]}]
+      set_output_delay $output_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {mprj_io[4]}] 
+      if { !($::env(IO_SYNC)) } {
+         set_false_path -to [get_ports mprj_io[*]] 
+      }      
+   }
+}
+# flash_* are output except for io1
+set_case_analysis 1 [get_pins padframe/flash_*pad/DM[2]]
+set_case_analysis 1 [get_pins padframe/flash_*pad/DM[1]]
+set_case_analysis 0 [get_pins padframe/flash_*pad/DM[0]]
+set_case_analysis 0 [get_pins padframe/flash_*pad/INP_DIS]
+set_case_analysis 0 [get_pins padframe/flash_io1_pad/DM[2]]
+set_case_analysis 0 [get_pins padframe/flash_io1_pad/DM[1]]
+set_case_analysis 1 [get_pins padframe/flash_io1_pad/DM[0]]
+set_case_analysis 0 [get_pins padframe/flash_io1_pad/OE_N]
+#flash interface input transition from the datasheet
+set flash_min_tran 4
+set flash_max_tran 6
+puts "\[INFO\]: Flash interface transition range: $flash_min_tran : $flash_max_tran"
+[INFO]: Flash interface transition range: 4 : 6
+set_input_transition -min $flash_min_tran [get_ports {flash_io1}] 
+set_input_transition -max $flash_max_tran [get_ports {flash_io1}] 
+set flash_min_cap 6
+set flash_max_cap 8
+puts "\[INFO\]: Flash interface cap load range: $flash_min_cap : $flash_max_cap"
+[INFO]: Flash interface cap load range: 6 : 8
+set_load -min $min_cap [get_ports {flash_csb flash_clk flash_io0}] 
+set_load -max $max_cap [get_ports {flash_csb flash_clk flash_io0}]  
+set flash_in_delay 4
+set flash_out_delay 4
+puts "\[INFO\]: Flash interface delay: input $flash_in_delay output $flash_out_delay"
+[INFO]: Flash interface delay: input 4 output 4
+set_output_delay $flash_out_delay  -clock [get_clocks {clk}] -add_delay [get_ports {flash_csb}]
+set_output_delay $flash_out_delay  -clock [get_clocks {clk}] -add_delay [get_ports {flash_clk}]
+set_output_delay $flash_out_delay  -clock [get_clocks {clk}] -add_delay [get_ports {flash_io0}]
+set_input_delay $flash_in_delay -clock [get_clocks {clk}] -add_delay [get_ports {flash_io1}]
+# gpio_pad is set as input pad
+set_case_analysis 0 [get_pins padframe/gpio_pad/DM[2]]
+set_case_analysis 0 [get_pins padframe/gpio_pad/DM[1]]
+set_case_analysis 1 [get_pins padframe/gpio_pad/DM[0]]
+set_case_analysis 0 [get_pins padframe/gpio_pad/INP_DIS]
+set_input_transition -min $min_in_tran [get_ports {gpio}] 
+set_input_transition -max $max_in_tran [get_ports {gpio}] 
+set_input_delay $input_delay_value  -clock [get_clocks {clk}] -add_delay [get_ports {gpio}]
+# Maximum Fanout soft constraint
+set_max_fanout 18 [current_design]
+# synthesis max fanout is 18
+## FALSE PATHS (ASYNCHRONOUS I/Os)
+set_false_path -from [get_ports resetb]
+set_false_path -from [get_ports gpio]
+# check ocv table (not provided)  
+set derate 0.0375
+puts "\[INFO\]: Setting derate factor to: [expr $derate * 100] %"
+[INFO]: Setting derate factor to: 3.75 %
+set_timing_derate -early [expr 1-$derate]
+set_timing_derate -late [expr 1+$derate]
+exec> report_checks \
+        -path_delay min \
+        -through _c034202100000000_p_Instance \
+        -format full_clock_expanded \
+        -fields {slew cap input_pins nets fanout} \
+        -no_line_splits \
+        -group_count 1000 \
+        -slack_max 40 \
+        -digits 2 \
+        -unique_paths_to_endpoint \
+         >> /home/vyom/Project/Counter_caravel_project/signoff/caravel/openlane-signoff/timing/s-nom/mprj-min.rpt
+exec> report_checks \
+        -path_delay max \
+        -through _c034202100000000_p_Instance \
+        -format full_clock_expanded \
+        -fields {slew cap input_pins nets fanout} \
+        -no_line_splits \
+        -group_count 1000 \
+        -slack_max 40 \
+        -digits 2 \
+        -unique_paths_to_endpoint \
+         >> /home/vyom/Project/Counter_caravel_project/signoff/caravel/openlane-signoff/timing/s-nom/mprj-max.rpt
+exec> report_check_types \
+        -max_slew \
+        -max_capacitance \
+        -recovery \
+        -removal \
+        -format end \
+        -violators >> /home/vyom/Project/Counter_caravel_project/signoff/caravel/openlane-signoff/timing/s-nom/summary.log
+exec> report_parasitic_annotation -report_unannotated > /home/vyom/Project/Counter_caravel_project/signoff/caravel/openlane-signoff/timing/s-nom/unannotated.log
+Found 2401 unannotated drivers.
+Found 996 partially unannotated drivers.
+there are missing spefs. check the log for ALLOW_MISSING_SPEF
+the following macros don't have spefs
+caravel
+chip_core/user_id_value
+chip_core/por
+padframe
+you may want to edit sdc: /home/vyom/Project/Counter_caravel_project/caravel/signoff/caravel/caravel.sdc to change i/o constraints
+check /home/vyom/Project/Counter_caravel_project/signoff/caravel/openlane-signoff/timing/s-nom

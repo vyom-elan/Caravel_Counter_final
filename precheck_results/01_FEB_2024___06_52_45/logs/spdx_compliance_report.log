@@ -1,0 +1,16 @@
+/home/vyom/Project/Counter_caravel_project/.readthedocs.yaml
+/home/vyom/Project/Counter_caravel_project/env/spef-mapping.tcl
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/cocotb_tests.py
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/design_info.yaml
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/user_proj_tests/user_proj_tests_gl.yaml
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/user_proj_tests/counter_la_clk/counter_la_clk.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/user_proj_tests/counter_la_reset/counter_la_reset.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/user_proj_tests/counter_la/counter_la.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/user_proj_tests/counter_wb/counter_wb.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/hello_world/hello_world.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/hello_world_uart/hello_world_uart.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/cocotb/gpio_test/gpio_test.c
+/home/vyom/Project/Counter_caravel_project/verilog/dv/io_ports/io_ports.lst
+/home/vyom/Project/Counter_caravel_project/verilog/dv/io_ports/io_ports.hexe
+/home/vyom/Project/Counter_caravel_project/verilog/rtl/counter.v
+/home/vyom/Project/Counter_caravel_project/verilog/rtl/user_defines.v

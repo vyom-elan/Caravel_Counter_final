@@ -1,0 +1,9 @@
+CARAVEL_ROOT: /home/vyom/Project/Counter_caravel_project/caravel
+MCW_ROOT: /home/vyom/Project/Counter_caravel_project/mgmt_core_wrapper
+PDK: sky130A
+PDK_ROOT: /home/vyom/Project/Counter_caravel_project/dependencies/pdks
+USER_PROJECT_ROOT: /home/vyom/Project/Counter_caravel_project
+caravan: false
+clk: 25
+emailto:
+- null
